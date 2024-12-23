@@ -9,17 +9,6 @@ Blank spaces are where your server name goes. If you don't have a server name yo
 * Link to [PlexEmail](https://github.com/jakewaldron/PlexEmail)
 * Shows Plex status (online or offline) using [ping.js](https://github.com/alfg/ping.js)
 
-## Contributors:
-[@EldonMcGuinness](https://github.com/EldonMcGuinness): Added ping.js to the code so the website now checks the server status automatically.
-
-[@lienma](https://github.com/lienma): Fixed Google fonts so it now chooses between https and http.
-
-[@HeroCC](https://github.com/HeroCC): There was a missing semicolon in the JS, added it to where it should be.
-
-[@nagarjuna993](https://github.com/@nagarjuna993): Thanks for the puff img.
-
-[TheDarocker](https://github.com/TheDarocker): Add a closing > and remove a few unneeded(?) HTML tags.
-
 ## Installing:
 Add this to your webserver root folder. You can rename it to your server name if you would like. Access it via your IP address.
 
